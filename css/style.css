@@ -1,0 +1,16 @@
+body div {
+	margin-bottom: 30px;
+}
+body div img {
+	height: 100px;
+	width: 200px;
+	display: none;
+}
+#text {
+	display: none;
+}
+body div iframe {
+	width: 400px;
+	height: 300px;
+	display: none;
+}
